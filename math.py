@@ -6,7 +6,7 @@ def sub():
     return x-y                             #on remote branch
 #Mul imple
 def mul():
-    pass
+    return x*y         #on local branch main
 #Div imple
 def div():
     pass
