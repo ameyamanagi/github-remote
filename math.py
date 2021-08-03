@@ -3,7 +3,7 @@ def add():
     return x+y
 #Sub imple
 def sub():
-    pass
+    return x-y
 #Mul imple
 def mul():
     pass
